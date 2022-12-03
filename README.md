@@ -1,4 +1,4 @@
-# directoryprint
+# printdir
 A simple package that prints the current directory with the `ls` command called using Python.
 
 # Prerequisite Tooling
@@ -25,7 +25,7 @@ The following are tools needed to further develop and build the package.
 ```sudo apt remove --purge python3-printdir -y```
 
 # License
-directoryprint is released under the MIT license. See LICENSE for details.
+printdir is released under the MIT license. See LICENSE for details.
 
 # Contact
 Checkout my other projects at Github, [@christophermilian](https://github.com/christophermilian)
